@@ -1,3 +1,2 @@
 FROM dockersamples/static-site
-ENV AUTHOR="take mitz"
-
+ENV AUTHOR="take-mitz"
